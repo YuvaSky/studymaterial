@@ -1,0 +1,56 @@
+Exception handling 
+------------------
+Following three activities are performed during exceptions handling
+1)Creating exception
+2)Throwing exception
+3)Catching exception
+
+Creating exception
+------------------
+JVM or APIs creates exception(An object) when any abnormal condition occurs during execution
+In this object information about the exception is stored
+
+Throwing exception
+------------------
+After creating exception, JVM or APIs throws that exception towards program(Reference of exception will be sent to the program)
+
+Catching exception
+------------------
+Program has resposibility to catch exception(Accepting reference of the exception)
+Program must have exception handler to accept exception
+This hadler will be defined by programmer
+Following two block should be defined by programmer to catch exception
+
+1)Try block
+try
+{
+  //Write code here(The code that can cause exception)
+}
+
+2)Catch block
+catch(ExceptionException cls)
+{
+  //code to display exception message
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

@@ -1,0 +1,29 @@
+Exception handling
+------------------
+Handling abnormal conditions by the program is called exception handling
+During execution of program, some abnormal conditions might be occurred
+These abnormal conditions are known as exceptions
+This is the reponsibility of the program to handle these exceptions
+If program will not handle these exceptions then program will be terminated abruptly
+Few exceptions are
+
+1)ArithmeticException
+2)NullPointerException
+3)ArrayIndexOutOfBoundsException
+4)ClassCastException
+5)NumberFormatException
+These exceptions are unchecked exceptions
+6)FileNotFoundException
+7)IOException
+8)InterruptedException
+etc
+These exceptions are checkecd exceptions
+
+
+
+
+
+
+
+
+

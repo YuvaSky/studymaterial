@@ -1,0 +1,62 @@
+Setps
+-----
+1)Write source code of program
+2)Compile it
+3)Run it
+
+
+Keywords
+--------
+These are vocvabulary of the programming language.
+Every programming language has several keywords
+In java there are upto 60 keywords
+Few java keywords are as follows
+public,class,static,void,protected,private,interface,int,short,byte,long,float,double,boolean,
+char,for,do,while,if,else,break,continue,switch,case,return,import,package,extends,implements,
+true,false,null,assert,throw,throws,try,catch,finally,final,abstract,synchronized,native,
+transient,label,this,super,etc
+
+Remember programming languages are case sensitive 
+All keywords are defined in lowercase
+In programming there are 4 case for alphabets
+1)lowercase
+2)UPPERCASE
+3)TitleCase
+4)camelCase
+
+
+rehanahmadsiddiqui:lower case
+RehanAhmadSiddiqui:title case
+rehanAhmadSiddiqui:camel case
+REHANAHMADSIDDIQUI:upper case
+
+Remember in programming total 52 alphabets are given not 26
+This is because alphabets are represented in the form of numbers.These numbers are known as
+ASCII code or Unicode
+A-Z:65-90
+a-z:97-122
+0-9:48-57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

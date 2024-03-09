@@ -1,0 +1,46 @@
+Applying condition
+------------------
+
+
+void method1()
+{
+  command1;
+  command2;
+  if(condition1)
+  {
+    command3;
+  }
+  command4;
+}
+
+Question
+--------
+If number is divisible by 3 and even then display valid number otherwise display invalid number
+
+
+Leap year
+---------
+The year which is divisible by 4 and not divisible by 100 or divisible by 400 is leap year
+
+Problem
+-------
+10000 or above 20%
+7000 to 10000 15%
+4500 to 7000 10%
+2500 to 4500 5%
+bellow 2500 no discount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

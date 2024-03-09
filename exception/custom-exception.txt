@@ -1,0 +1,5 @@
+Crearting exception and throwing exception
+-------------------------------------------
+throw and throws statatement should written to throw exception
+Remmeber throws statement is required when your api thorws checked exception
+If your api wants to create and throw unchecked exception then only throw statement is required

@@ -1,0 +1,34 @@
+static keyword
+---------------
+We can use this keyword to declare/define static variables and static methods inside class
+
+public class AA
+{
+  int num;//non-static or instance variable
+  public void show() //non-static method
+  {
+	//code
+  }
+}
+
+public class Bb
+{
+  static int num;//static variable or class variable
+  public static void show() //static method
+  {
+	//code
+  }
+}
+
+Static variable
+---------------
+Static variable has only one copy in memory.It is created when class is loaded in memory
+Object reference is not required to access/use this variable
+
+
+
+
+
+
+
+

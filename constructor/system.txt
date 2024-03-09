@@ -1,0 +1,14 @@
+AA is a class
+
+AA.x=90;
+
+
+System.out.println("Welcome");
+
+Here:
+out is a static variable of class System
+In this variable reference of PrintStream class object has been kept by System class
+println() is a method of PrintStream class
+
+
+System.out.println("OK");

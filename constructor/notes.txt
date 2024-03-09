@@ -1,0 +1,30 @@
+Default constructor
+-------------------
+When source code of the class has no constructor then compiler inserts a non-parameterized constructor inside class(class files).This constructor is called default constructor
+
+public class AA
+{
+}
+
+Default value will be asigned to the object when this constructor will be invoked
+
+Integer: 0
+String:null
+float or double:0.0
+boolean:false
+
+Constructor overloading
+-----------------------
+Defining more than one constructor inside class is called constructor overloading
+Remember parameter list of the constructor must be different
+
+
+
+
+
+
+
+
+
+
+

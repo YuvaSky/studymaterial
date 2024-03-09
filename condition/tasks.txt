@@ -1,0 +1,13 @@
+Tasks on the object using collection methods
+--------------------------------------------
+1)Adding new element(object) into collection
+2)Removing elements from the collection
+3)Iterating elements
+4)Searching elements
+5)Sorting elements
+6)Updating elements
+7)Replacing elements
+8)Inserting elements
+etc
+
+

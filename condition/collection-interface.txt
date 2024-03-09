@@ -1,0 +1,83 @@
+Collection interface
+--------------------
+It is a child of Iterable interface
+Remember collection framework was introduced in JDK1.2 while Iterable interface was made in JDK1.0
+It has following three child interfaces
+1)List interface
+2)Set interface
+3)Queue interface
+
+These interface are also collection.It means these nterfaces are having all methods/behaviours of Collection interface.Remember child should have more methods than parent
+
+List interface
+---------------
+It is a child of Collection interface.
+It has following three implementation class
+i)ArrayList class
+ii)LinkedList class
+iii)Vector class
+
+
+Objects of these classes(ArrayList,LinkedList and Vector) should be treated as list collection
+Features of List collection
+1)It is an ordered collection
+2)It allows duplicacy of elements
+3)It allows multiple null values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

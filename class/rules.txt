@@ -1,0 +1,7 @@
+Naming rules
+------------
+1)Name must start with an alphabet or $ or _ (underscore)
+2)Name can not have other symbols(special characters).Remember $ and
+_ is allowed in name
+3)Even space is not allowed in name
+4)Name can not be a keyword

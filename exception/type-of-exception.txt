@@ -1,0 +1,43 @@
+Types of exceptions
+--------------------
+There are two types of exceptions
+1)Checked exceptions
+2)Unchecked exceptions
+
+Checked exceptions
+------------------
+Handling these exceptions are mandatory
+Compiler checks existense of handler(try and catch) in source code of program
+If not found then code will not be compiled
+All child classes(Except RuntimeException) of Exception class are checked exceptions
+Checked exceptions are also called compile time exceptions
+
+Unchecked Exceptions
+------------------
+Handling these exceptions are not mandatory
+Compiler does not checks existense of handler(try and catch) in source code of program
+All child classes of RuntimeException are unchecked exceptions
+Few child classes of RuntimeException are as follows
+1)ArithmeticException 
+2)NullPointerException
+3)ArrayIndexOutOfBoundsException
+4)ClassCastException
+5)NumberFormatException
+etc
+Precaution of these exceptions are possible that's why handling these exceptions are not mandatory
+These exceptions are also called run time exceptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

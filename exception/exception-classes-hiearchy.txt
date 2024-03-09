@@ -1,0 +1,29 @@
+Exception classes
+-----------------
+Topmost class in the hierarchy is Throwable
+This class has following two child classes
+
+1)Exception class
+2)Error class
+
+Exception class
+---------------
+It has several childs
+Object of these childs will be created and thrown as exception
+These exceptions can be caught by program
+
+Error class
+---------------
+It has several childs
+Object of these childs will be created and thrown as exception
+These exceptions can not be caught by program
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+Finally block
+-------------
+This block is always executed
+So code written inside this block is always executed
+This block should be used with try and catch
+
+//first
+try
+{
+  //command
+}
+catch(...)
+{
+  ///command
+}
+
+//second
+try
+{
+  //command
+}
+finally
+{
+  ///command
+}
+
+//third
+try
+{
+  //command
+}
+catch(...)
+{
+  ///command
+}
+finally
+{
+  //code
+}
