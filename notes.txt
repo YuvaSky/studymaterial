@@ -1,0 +1,57 @@
+Array
+-----
+1)It is used to store similar type of data
+2)It stores data int contiguous manner
+3)Size of the array is fixed.It means it can neither grow not shrink
+
+Remember data could be value as well as reference of objects
+In java programming data will be kept into objects and refererence of these objects will be
+kept into array
+
+
+datatype [] name=new datatype[10];
+
+Datatype could be primitive(int,byte,short,boolean,char,double,float,long) as well as non-primitive(class)
+
+int [] num=new int[10];//In this array program will keep int type value
+Product [] p=new Product[10];//In this array program will keep reference of Product class object
+
+Reference of the array
+----------------------
+Every array in memory has an unique reference
+JVM generates this reference and returns to the program
+Program must keep this reference in a variable
+Default value will be assigned to the array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

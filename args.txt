@@ -1,0 +1,7 @@
+public static void main(String [] args)
+{
+}
+
+As we know main method is called by JVM
+JVM creates String type array and passes reference of that array to the main method
+That reference is stored in args by main method
