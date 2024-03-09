@@ -1,0 +1,33 @@
+Map collection
+--------------
+As we know list collection,set collection and queue collection are implementation of Collection interface.But map collection is not implementation of Collection interface
+Map collection is implementation of Map interface
+Map collection keeps element in key-value pair
+Due to key, elements can be accessed easily
+Map interface has only one implementation class
+This class is HashMap
+Remember HashSet uses instance/object of HashMap to keep elements
+In HashMap, key will always be unique and value(It is mostly element) can be duplicate
+
+HashMap<Integer,String> map=new HashMap<Integer,String>();
+
+Key-value pair inside HashMap collection is unordered
+
+LikedHashMap class
+-------------------
+It is a child of HashMap class
+Key-value pair inside LinkedHashMap collection is ordered
+
+TreeMap class
+-------------
+It is an implementation of SortedMap interface
+SortedMap interface is a child of Map interface
+TreeMap collection keeps key-value pair(entry) in the ascending order of key
+
+
+
+
+
+
+
+

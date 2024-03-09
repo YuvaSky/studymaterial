@@ -1,0 +1,7 @@
+When to use ArrayList
+---------------------
+If your program wants to create list collection for searching elements rather than manipulation
+
+When to use LinkedList
+---------------------
+If your program wants to create list collection for manipulating(inserting elements,removing elements,replacing elements) elements rather than searching elements

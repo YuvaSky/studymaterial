@@ -1,0 +1,44 @@
+Set collection
+--------------
+Set is a child interface of Collection interface
+It has all methods of Collection interface
+Set collection has following features
+1)It is unordered collection
+2)It does not allow duplicacy of elements
+3)It allows single null value
+
+Set interfac has only one implementation class.Name of that class is HashSet
+
+HashSet class
+-------------
+It is implementation of Set interface.
+We can use this collection when our program does not want to keep dublicate elements inside collection
+HashSet class uses instance/object of HashMap class to store elements 
+HashMap uses Hashtable to keep elements inside it
+Hashtable creates array of buckets to keep elements.Initial size of this array is 16 bydefault
+It means Hashtable creates 16 buckets.
+Bucket is nothing it is an object of doubly linked list
+Remember each bucket will be identified by using array index number
+So index of first bucket will be 0 and last will be 15
+
+Hashtable calls following two methods of Object class internally
+
+1)public int hashCode():This method is called by Hashtable to get index of bucket in which element is to be added
+
+2)public boolean equals(Object obj):This method is called by Hashtable to avoid duplicacy of elements.This method will be called when same hashcode number element has already added into collection.It will be checked into same bucket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

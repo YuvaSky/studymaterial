@@ -1,0 +1,12 @@
+LinkedHashSet class
+-------------------
+It is a child of HashSet class
+Unlike HashSet it is ordrered collection
+
+
+TreeSet class
+-------------
+It is an implementation of SortedSet interface
+SortedSet interface is a child of Set interface
+TreeSet collection will keep elements in ascending order
+to arrange elements in ascending order,It calls compareTo() method of Comparable interface.So class of the element must implement Compararble interface otherwise ClassCastException will be thrown

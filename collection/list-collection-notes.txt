@@ -1,0 +1,11 @@
+LinkedList class
+----------------
+It is also a list collection.It is also implementation of Deque interface
+It creates and uses doubly linked list to store elements
+
+
+Vector class
+------------
+It is also a list collection.It is a legacy class of collection framework
+It creates and uses resziable array to store elements(size is 10 like ArrayList)
+Vector class is synchronized class

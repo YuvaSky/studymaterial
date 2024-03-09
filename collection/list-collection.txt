@@ -1,0 +1,26 @@
+List collection
+---------------
+List is an interface.It is child of Collection interface.
+List interface has following three implementation classes
+
+1)ArrayList class
+2)LinkedList class
+3)Vector class
+
+Object of there classes is used by our program as list collection.List collection will manage references of objects(Those objects that contain programs's data)
+
+1)List collection is always ordered
+2)Allows duplicacy of elements
+3)Allows multiple null values
+
+
+
+
+
+
+
+
+
+
+
+

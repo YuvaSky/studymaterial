@@ -1,0 +1,18 @@
+Collection framework
+--------------------
+
+Group of objects is known as collection
+Collection itself an object
+Our program can create this object(collection) to keep references of multiple objects
+
+Product p; //Only reference of single object can be kept
+
+Product [] p=new Product[10];//Only reference of 10 objects can be kept
+
+ArrayList<Product> list=new ArrayList<Product>();//Reference  of multiple objects can be kept
+
+Remember collection can be homogeneous as well as hetergeneous
+
+ArrayList list=new ArrayList();
+
+

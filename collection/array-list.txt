@@ -1,0 +1,47 @@
+ArrayList class
+---------------
+It is an implementation of List interface
+Our program can create and use object of this class as a list collection
+
+ArrayList uses an resizable array to store elements
+Initial size of this array is 10
+
+ArrayList<String> list1=new ArrayList<String>();
+//It will create a resizable array of type String and size 10 
+
+ArrayList<Product> list2=new ArrayList<Product>();
+//It will create a resizable array of type Product and size 10 
+
+ArrayList<Integer> list3=new ArrayList<Integer>();
+//It will create a resizable array of type Integer and size 10 
+
+ArrayList list1=new ArrayList();
+//It will create a resizable array of type Object and size 10 
+
+int [] num=new int[10];
+
+//1:create new array of more size or less size
+int [] arr=new int[num.length*2];
+//2:copy each value of first array(num) into new array(arr)
+
+//3:assign reference of new array into old ref variable
+
+num=arr;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

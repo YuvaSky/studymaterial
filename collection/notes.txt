@@ -1,0 +1,11 @@
+Collection framework
+--------------------
+Group of objects is known as collection
+Readymade architecture is known as framework
+
+What is object in programming?
+
+new Product();//code to create object
+
+Our program creates object to keep data
+It means object could be container of program's data(Data that program is accepting from user or fetching from the database)
