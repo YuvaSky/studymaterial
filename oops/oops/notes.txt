@@ -1,0 +1,47 @@
+Object
+------
+Every real world entity is an object
+Every object is an instance of a class
+Object is created from the class
+It means class is blueprint of the object
+
+Every object has following two properties
+1)Attributes
+2)Behaviours
+
+These properties(attributes and behaviours) should be defined inside class
+Define following inside class
+Variables for attributes
+Methods for behaviours
+
+
+Method
+------
+It is set of executable commands.These commands are executed/run in a sequence to perform a particular task
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
