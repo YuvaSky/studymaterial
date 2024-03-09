@@ -1,0 +1,34 @@
+If type of arugment/parameter of constructor or method is an interface then we will have to pass reference of object of implementation class of that interface
+
+Implementation of interface
+----------------------------
+A class which implements an interface is known as implementation of that interface.A class can be implementation of multiple interfaces
+
+interface AA
+{
+  //methods
+}
+class BB implements AA
+{
+ //override all methods of interface AA
+}
+
+Here class BB is an implementation of interface AA
+
+interface AA
+{
+  //methods
+}
+interface BB
+{
+  //methods
+}
+class CC implements AA,BB
+{
+ //override all methods of interface AA and BB
+}
+
+Here class CC is an implementation of interface AA as well as BB
+
+
+

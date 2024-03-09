@@ -1,0 +1,7 @@
+1)Asbtract class can not be instantiated
+2)Asbtarct class can only be inherited
+3)Abstract class can have both abstract and non-abstract methods
+4)Abstract class methods are not abstract by default
+5)Asbtract class is also not by default abstract
+6)Only one abstract class can be inherited
+7)Abstract methods of abstract class can not be private

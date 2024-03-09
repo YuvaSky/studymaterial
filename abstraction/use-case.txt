@@ -1,0 +1,25 @@
+Define following four classes with folowing methods and instance variables
+
+1)Addition class
+2)Multiplication class
+3)Subtraction class
+4)Division class
+
+Instance variables
+------------------
+Define three in type instance variable in each class
+
+Methods
+-------
+Define following three methods in each class
+i)Method to accept two numbers from user and assin them in first two instance variable
+ii)Method to perform addition or subtraction or multiplication or division
+iii)Method to show result(value of last instance variable)
+
+
+
+
+
+
+
+

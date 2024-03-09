@@ -1,0 +1,16 @@
+Abstraction
+------------
+Hiding non-essesntial details of the entity from the user is called abstraction
+It is achieved by follwoing two ways
+
+1)By defining abstract class
+2)By defining interface
+
+Abstract method
+---------------
+The method without implementation or body is known as abstract method
+
+public abstract return-type method-name(parameter-list);
+
+Rule:abstract methods can only be defined inside abstract class or inside interface
+

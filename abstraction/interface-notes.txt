@@ -1,0 +1,32 @@
+Interface
+---------
+Like class, we can define interface
+So interface is a structure just like class
+Remember class is blueprint of object while interface is blueprint of class
+Interface is bydefault abstract
+So it can not be instantiated.It means don't try to create object from interface
+Methods of interface are bydefault public and abstract
+Remember abstract methods of interface can only be public 
+
+Rule:Method body/implementation is not allowed inside interface.It is not allowed till java7(JDK 1.7) but java8(JDK1.8) onwards it is allowed
+For implementation of the method you will have to make method either static or default
+
+static void method1()
+{
+  //body
+}
+default void method2()
+{
+  //body
+}
+
+Static method inside interface can also be private java9 onwards
+
+
+
+
+
+
+
+
+

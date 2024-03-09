@@ -1,0 +1,44 @@
+Abstract class
+--------------
+Abstract class can not be instantiated
+It means object from abstract class can not be created
+
+
+As we know every object is an instance of a class
+So creating object is called instasntiation
+
+Abstract class will always be inherited
+It is recommended to make parent class abstract(when you are defining classes in hierarchical manner)
+
+public abstract class AA
+{
+  //methods
+}
+public class BB extends AA
+{
+ //method
+}
+public class CC extends AA
+{
+ //method
+}
+public class DD extends AA
+{
+ //method
+}
+
+Rule:It is mandatory for the child class to override all abstract methods of parent class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
